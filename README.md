@@ -91,3 +91,7 @@ The machine learning models used in this project were trained in the `F_Project.
 -   **Frontend:** Flutter, Dart
 -   **Backend:** Python, Flask
 -   **Machine Learning:** Scikit-learn, Librosa, Numpy, Pandas, Jupyter Notebook
+
+## License
+
+This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
