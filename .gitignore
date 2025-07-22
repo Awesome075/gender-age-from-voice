@@ -1,0 +1,48 @@
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.packages
+build/
+
+# Android
+/frontend/android/app/src/main/assets/flutter_assets/
+/frontend/android/app/build
+/frontend/android/.gradle
+/frontend/android/local.properties
+
+# iOS
+/frontend/ios/Flutter/App.framework
+/frontend/ios/Flutter/engine.xcconfig
+/frontend/ios/Flutter/flutter_assets/
+/frontend/ios/Flutter/Generated.xcconfig
+/frontend/ios/Pods/
+/frontend/ios/Runner/GeneratedPluginRegistrant.*
+/frontend/ios/.symlinks/
+/frontend/ios/Flutter/ephemeral
+
+# macOS
+/frontend/macos/Flutter/ephemeral
+
+# Linux
+/frontend/linux/flutter/ephemeral
+
+# Windows
+/frontend/windows/flutter/ephemeral
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Python
+/backend/venv/
+/backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Other
+.DS_Store
+/temp.wav
+your_voice_sample.wav
